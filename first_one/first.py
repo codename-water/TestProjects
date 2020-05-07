@@ -1,0 +1,2 @@
+print('''This is my first program in ubuntu 20.04 LTS. \nInstalled on 2nd May, 2020.\nThese are really hard times. In all this chaos people are trying to survive this grave danger.\nLet's hope for the best and world will come back on track soon.''')
+print('Peace')
